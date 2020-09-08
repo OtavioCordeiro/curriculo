@@ -42,9 +42,9 @@ Manutenção e melhorias do transacional da empresa, alto risco devido processam
 ### Analista de Sistemas SR, BRQ Soluções ( Alocado no Banco BTG Pactual ) 05/2019 à 08/2019
 Manutenção e desenvolvimento no sistema de tesouraria do banco e no sistema financeiro do banco btg pactual. 
 
-**Tecnologias e Ferramentas: Bastante utilização de banco de dados SQL Server e uso mediano do .Net C# e VB.Net.
+**Tecnologias e Ferramentas: Bastante utilização de banco de dados SQL Server e uso mediano do .Net C# e VB.Net.**
 ### Consultor em TI III, MGN Informática ( Um 1 ano alocado no cliente Banco Bocom BBM e atualmente na fábrica de Software da MGN ) 08/2019 (Empresa Atual)
 Criação de relatórios, desenvolvimento de api's e correção de problemas.
-** Tecnologias e Ferramentas: PowerCenter Informática, C# .Net, VBA Excel, VB.Net e SQL Server
+**Tecnologias e Ferramentas: PowerCenter Informática, C# .Net, VBA Excel, VB.Net e SQL Server**
 
 Estou na fábrica atualmente e estou no inicio do meu primeiro projeto em vb.net.
