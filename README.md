@@ -34,7 +34,7 @@ Manutenção e melhorias do backend do portal da empresa.
 
 **Tecnologias e Ferramentas: C# .Net Framework 4.6 >, MsTest, SQL Server, Api Rest, Api Soap WCF, Git, VSTS, Continuous Integration, WindowsService, Scrum, Kanban.**
 
-### Analista de Desenvolvimento, Braspag – 12/2018 (Empresa atual)
+### Analista de Desenvolvimento, Braspag – 12/2018 à 05/2019
 Manutenção e melhorias do transacional da empresa, alto risco devido processamento de milhões por dia.
 
 **Tecnologias e Ferramentas: C#, Net Core 2.0 >, .Net Framework 4.6 >,Teste de unidade (Xunit, Nsubstitute, AutoFixure, “> 95% code coverage”), API RestFull, SOLID, Pull Request, Continuous Delivery, Scrum.**
