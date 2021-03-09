@@ -21,7 +21,15 @@ Trabalhar na área de desenvolvimento de sistemas com paixão e dar o melhor de 
 70-483 Programming in C#  - Janeiro de 2016
 
 ## Formação Acadêmica
-Ensino Superior (Incompleto), Universidade Estácio de Sá ( Janeiro de 2014 à Janeiro de 2016 )
+Ensino Superior Universidade Estácio de Sá 
+
+## Cursos e Treinamentos
+
+**PluralSight** ( Api RestFull .net core, Microservices Architecture, Git Fundamentals, Testing .Net code, Assynchronous programming .Net, OWASP top 10 riscos para asp.net, SOLID Principles )
+
+**CursoEmVideo** ( HTML5, Javascript, PHP, Wordpress )
+
+**Udemy** ( Cursos de Banco de dados e sql, Inglês)
 
 ## Experiencia Profissional
 
@@ -49,4 +57,7 @@ Criação de relatórios, desenvolvimento de api's e correção de problemas.
 
 **Tecnologias e Ferramentas: PowerCenter Informática, C# .Net, VBA Excel, VB.Net e SQL Server**
 
-Estou na fábrica atualmente e estou no inicio do meu primeiro projeto em vb.net.
+Desenvolvimento de projeto para um cliente de empréstimo financeiro.
+
+**Tecnologias e Ferramentas: C# .Net, Javascript, HTML, CSS, Sybase e XSL/XSLT**
+
